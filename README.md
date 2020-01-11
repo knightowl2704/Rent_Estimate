@@ -14,7 +14,7 @@ __API Information__
   * Rent Estimate
 
 
-__url__ : /api/bedrooms=NO_OF_BEDROOMS&bathrooms=NO_OF_BATHROOMS&area=AREA
+__url__ : `/api/bedrooms=NO_OF_BEDROOMS&bathrooms=NO_OF_BATHROOMS&area=AREA`
 
 __Areas supported__ : 'Granite Bay', 'Loomis', 'Roseville', 'Sacramento', 'Carmichael',<br> 'Lincoln', 'West Sacramento', 'Davis', 'Citrus Heights', 'Orangevale', 'Rancho Cordova',<br> 'Antelope', 'Fair Oaks', 'McClellan', 'Placerville', 'Isleton', 'Vacaville', 'Lodi', 'Olivehurst', <br>'Applegate', 'Rio Linda', 'Acampo', 'Folsom', 'Shingle Springs', 'Canoga Park', 'Galt', 'Rio Vista',<br> 'El Dorado Hills', 'Auburn', 'Elk Grove', 'Woodland', 'Dixon', 'Rocklin', 'Esparto', 'Elverta', 'Sloughhouse', 'North Highlands'
 
