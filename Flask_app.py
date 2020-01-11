@@ -24,7 +24,7 @@ app = Flask(__name__)
 def home():
     return render_template('index.html')
 
-@app.route('/api/?bedrooms=<bedrooms>&bathrooms=<bathrooms>&area=<area>') 
+@app.route('/api/bedrooms=<bedrooms>&bathrooms=<bathrooms>&area=<area>') 
 def rent_estimate(bedrooms,bathrooms,area):
     no_bathrooms = bathrooms
     no_bedrooms = bedrooms
