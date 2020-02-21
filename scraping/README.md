@@ -13,4 +13,8 @@
 
 ```wd.get("https://www.facebook.com/marketplace/xxxxxxxxx")```
 
+4. Change the for loop index to the number of listings you wish to scrape, make sure that sufficient entries are loaded on the Webdriver browser. 
+5. It may so happen that the facebook XPath of the element may be changed, in that case *Inspect* the element in the browser and paste the *XPath* of the div that consists of the Rent and bedrooms/bathrooms details. 
+6. This is a naive approach to scraping data, I will work on more robust approach in future.
+
 Run jupyter notebook and the data will be saved in a .csv file in the parent directory. Use the data to train machine learning models. :)
