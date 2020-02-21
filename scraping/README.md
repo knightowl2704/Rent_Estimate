@@ -4,6 +4,7 @@
 * [Selenium Webdriver](https://www.selenium.dev/documentation/en/) for your browser (Chrome in this case)
 * Pandas
 <br>
+
 **Data to be scraped:** Rent, Number of bathrooms and Number of bedrooms, Area, Location.
 
 1. Browse the [facebook marketplace](https://www.facebook.com/marketplace/) and click on "Rentals". Specify the Area in the filters and click apply.
